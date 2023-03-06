@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8c67d1f.css",
+    "main.js": "/static/js/main.a20e9b71.js",
+    "static/media/tourist-women.webp": "/static/media/tourist-women.36e215fe43243ac2401e.webp",
+    "static/media/ad.webp": "/static/media/ad.5de785b0b6938f2759fa.webp",
+    "static/media/testImage.webp": "/static/media/testImage.400b9e26884a2fb442fb.webp",
+    "static/media/LOGO.png": "/static/media/LOGO.2f01268e17049cfab5fb.png",
+    "static/media/customers.webp": "/static/media/customers.9143fc33a3f50bc2aa25.webp",
+    "static/media/bag.webp": "/static/media/bag.12548b39ca6079dbe0b8.webp",
+    "static/media/save-money-icon.webp": "/static/media/save-money-icon.887bd175c7c18d20df10.webp",
+    "static/media/value-for-money-icon.webp": "/static/media/value-for-money-icon.bcf49b146a7bb7d37632.webp",
+    "static/media/24-help-icon.webp": "/static/media/24-help-icon.433cbd36be1859e89891.webp",
+    "static/media/flighgt.webp": "/static/media/flighgt.9b5b2a7d9e39266bd52a.webp",
+    "static/media/safe-travel-icon.webp": "/static/media/safe-travel-icon.d3381bc391fd94ca4ebd.webp",
+    "static/media/globe-icon.webp": "/static/media/globe-icon.90e88927f28e9e762ea9.webp",
+    "static/media/family-icon.webp": "/static/media/family-icon.54444ce1a79464d8063b.webp",
+    "static/media/heart-icon.webp": "/static/media/heart-icon.c3deab75e7026946e84f.webp",
+    "static/media/bording-pass.webp": "/static/media/bording-pass.58010876f54466f37b54.webp",
+    "static/media/luggage.webp": "/static/media/luggage.cd83826445703311cb12.webp",
+    "static/media/rainbow-icon.webp": "/static/media/rainbow-icon.971c520f97d5c41a41f0.webp",
+    "static/media/star.webp": "/static/media/star.a29a6b01ea069d53b186.webp",
+    "index.html": "/index.html",
+    "main.d8c67d1f.css.map": "/static/css/main.d8c67d1f.css.map",
+    "main.a20e9b71.js.map": "/static/js/main.a20e9b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c67d1f.css",
+    "static/js/main.a20e9b71.js"
+  ]
+}
